@@ -16,7 +16,7 @@ Titanic (versión de seaborn), en `Data/titanic.csv`. Es el dataset recomendado 
 | P4 | Jorge | T3a Franja de edad | columna franja_edad con numpy, sin bucles | T3a_franja_edad.ipynb |
 | P5 | Sergio | T3b Normalización | columnas tarifa_norm y tam_familia con numpy, sin bucles | T3b_normalizacion.ipynb |
 | P6 | Argail | T4a Filtrado | 2 filtros con condiciones distintas y 2 estadísticas sobre ellos | T4a_filtrado.ipynb |
-| P7 | Ainoha | T4b Groupby | 4 agregaciones por categoría (sexo, clase, sexo y clase) | T4b_groupby.ipynb |
+| P7 | Daniel(Ainoha dejó el grado) | T4b Groupby | 4 agregaciones por categoría (sexo, clase, sexo y clase) | T4b_groupby.ipynb |
 | Jefe | Daniel | T5 y revisión final | conclusiones, unión de notebooks y entrega | P1_analisis_titanic.ipynb |
 
 ## Contrato (todos seguimos esto)
